@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-cards-game/static/css/main.981ac286.css",
-    "main.js": "/react-cards-game/static/js/main.a24fabf3.js",
+    "main.js": "/react-cards-game/static/js/main.b3b9c4b6.js",
     "index.html": "/react-cards-game/index.html",
     "main.981ac286.css.map": "/react-cards-game/static/css/main.981ac286.css.map",
-    "main.a24fabf3.js.map": "/react-cards-game/static/js/main.a24fabf3.js.map"
+    "main.b3b9c4b6.js.map": "/react-cards-game/static/js/main.b3b9c4b6.js.map"
   },
   "entrypoints": [
     "static/css/main.981ac286.css",
-    "static/js/main.a24fabf3.js"
+    "static/js/main.b3b9c4b6.js"
   ]
 }
