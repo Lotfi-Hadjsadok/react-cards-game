@@ -10,7 +10,7 @@ function singleCard({ card, turnCard, flipped, disabled }) {
             <div className={flipped ? 'flipped' : ''}>
 
                 <img className="front" src={card.src} alt="" />
-                <img onClick={handleClick} src="/img/cover.png" alt="" className="back" />
+                <img onClick={handleClick} src="img/cover.png" alt="" className="back" />
             </div>
         </div>
     )
